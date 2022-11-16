@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    animation: bgcolor infinite 50s;
+
+}
+@keyframes bgcolor
+{
+    0%
+    {
+        background:#f5f6fa ;
+    }
+    10%
+    {
+        background: #9c88ff;
+    }
+    20%
+    {
+        background:#fbc531 ;
+    }
+    30%
+    {
+        background: #487eb0;
+    }
+    40%
+    {
+        background:#0097e6 ;
+    }
+    50%
+    {
+        background: #8c7ae6;
+    }
+    60%
+    {
+        background:#e1b12c ;
+    }
+    70%
+    {
+        background: #44bd32;
+    }
+    80%
+    {
+        background: #2f3640
+    90%
+    {
+        background: #00a8ff;
+    }
+    100%
+    {
+        background: #e84118;
+    }
+}
